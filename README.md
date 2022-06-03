@@ -1,4 +1,6 @@
-![Logo of the project](https://raw.githubusercontent.com/jehna/notepadlet/master/screenshot.png)
+
+
+Originally developed by Jehna (https://github.com/jehna/notepadlet/)
 
 # Notepadlet
 > A simple bookmarklet notepad
@@ -10,7 +12,7 @@ browser's bookmark bar and opens instantly.
 
 You can install the Notepadlet by following istructions on this website:
 
-[Install Notepadlet](http://jehna.github.io/notepadlet)
+
 
 The website directs you to a fresh Notepadlet that instructs you how to install
 the bookmarklet.
