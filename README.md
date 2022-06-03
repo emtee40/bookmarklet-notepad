@@ -2,7 +2,7 @@
 
 Originally developed by Jehna (https://github.com/jehna/notepadlet/)
 
-# Notepadlet
+
 > A simple bookmarklet notepad
 
 Notepadlet is a simple and beautiful offline notepad that lives in your
